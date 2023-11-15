@@ -1,0 +1,10 @@
+/* Initial style for the districts */
+.district {
+    fill: #2196F3; /* Default district color */
+    transition: fill 0.2s; /* Smooth transition */
+}
+
+/* Hover style for the districts */
+.district:hover {
+    fill: #888; /* Change the color to gray on hover */
+}
